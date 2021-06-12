@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>github@appleneko2001</Authors>
+    <Company>github@appleneko2001</Company>
+    <Description>OpenGL ES API Binding for C# with C++ coding-style</Description>
+    <RepositoryUrl>https://github.com/appleneko2001/OpenGLES</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/appleneko2001/OpenGLES</PackageProjectUrl>
+    <Version>0.0.0</Version>
+  </PropertyGroup>
+
+</Project>
